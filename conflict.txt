@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Welcome to HMS Portal 
+=======
+Welcome to Hospital Management App 
+>>>>>>> 914087c (feat: update welcome message)
